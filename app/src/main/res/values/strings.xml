@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">PeakFlow</string>
+
+    // PeakFlow Chart UI
+    <string name="button">Start Test</string>
+    <string name="_60">60</string>
+    <string name="_100">100</string>
+    <string name="_450">450</string>
+    <string name="_150">150</string>
+    <string name="_200">200</string>
+    <string name="_250">250</string>
+    <string name="_300">300</string>
+    <string name="_350">350</string>
+    <string name="_400">400</string>
+    <string name="_500">500</string>
+    <string name="_550">550</string>
+    <string name="_600">600</string>
+    <string name="_650">650</string>
+    <string name="_700">700</string>
+    <string name="_750">750</string>
+    <string name="_800">800</string>
+
+    // General UI
+    <string name="blow_icon">Blow Icon</string>
+    <string name="mute">Mute</string>
+</resources>
